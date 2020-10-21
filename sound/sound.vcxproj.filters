@@ -26,19 +26,9 @@
     <ClInclude Include="instr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\c0gnito.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Library Include="bass.lib" />
-    <Library Include="include\c0gnito.lib" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\text.txt" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="sound.rc">
